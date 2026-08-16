@@ -25,8 +25,8 @@ console.log(addedNumbers); // Output: [20, 30, 40, 50, 60]
 let filteredNumbers = numbers.filter((num) => num > 30);
 console.log(filteredNumbers); // Output: [40, 50]
 
-Task -3
-Reduce(),find(),findIndex()
+// Task -3
+// Reduce(),find(),findIndex()
 
 let marks = [40, 55, 70, 85, 30];
 
